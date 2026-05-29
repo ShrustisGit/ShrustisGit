@@ -1,6 +1,8 @@
 <h1 align="">Hi 👋, I'm Shrusti Halli</h1>
-<h4 align="">I’m currently focused on building projects and actively contributing to open source.My goal is to grow as a developer by staying consistent, exploring new technologies, and gaining practical experience through hands-on work.</h4>
-
+<hr>
+- Open Source Contributor <br>
+- GSSoC Contributor <br>
+- Web And App Developer<br>
 - I’m currently working on Project **[EduNexus]
 Connecting ambitious students with global impact funding.**<br>
 <hr>
