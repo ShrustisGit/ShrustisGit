@@ -10,7 +10,7 @@ Connecting ambitious students with global impact funding.**
 
 -  My projects[https://github.com/ShrustisGit](https://github.com/ShrustisGit)
 
-- 📫 How to reach me **shrustihalli20@gmail.com**
+- Mail-**shrustihalli20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
