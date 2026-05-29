@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Shrusti Halli</h1>
-<hr>
+
 - Open Source Contributor <br>
 - GSSoC Contributor <br>
 - Web And App Developer<br>
