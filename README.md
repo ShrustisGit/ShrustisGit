@@ -3,7 +3,7 @@
 - Open Source Contributor <br>
 - GSSoC Contributor <br>
 - Web And App Developer<br>
-- I’m currently working on Project **[EduNexus]
+- I’m currently working on Project **[EduBridge]
 Connecting ambitious students with global impact funding.**<br>
 <hr>
 
