@@ -8,8 +8,7 @@ Connecting ambitious students with global impact funding.**<br>
 <hr>
 
 - 🌱 I’m currently learning <br>
-- Django <br>
-- AWS
+- JAVA
 - DSA
 
 <hr>
