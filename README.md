@@ -1,18 +1,19 @@
 <h1 align="">Hi 👋, I'm Shrusti Halli</h1>
 
-- Open Source Contributor <br>
-- GSSoC Contributor <br>
-- Web And App Developer<br>
-- I’m currently working on Project **[EduBridge]
-Connecting ambitious students with global impact funding.**<br>
-<hr>
+- Web & App Developer | Open Source Contributor | GSSoC Contributor
 
-- 🌱 I’m currently learning <br>
-- JAVA
-- DSA
+I'm a passionate developer interested in building useful applications, contributing to open source, and continuously improving my problem-solving and development skills.
 
-<hr>
-
+🔭 Currently working on EduBridge — Connecting ambitious students with global impact funding.
+🌱 Currently learning Java & Data Structures and Algorithms (DSA)
+🤝 Looking for new opportunities to contribute to open-source projects
+🚀 Interested in Web Development, Open Source, and Software Development
+💡 Always excited to learn new technologies and collaborate with developers
+🛠️ Languages & Tools
+Languages: Java, Python, C, C++, JavaScript
+Web: HTML, CSS, JavaScript, React, Flask
+Database: MySQL, MongoDB
+Currently Learning: Java, DSA
 - My projects-[https://github.com/ShrustisGit](https://github.com/ShrustisGit)
 
 - Mail-**shrustihalli20@gmail.com**
