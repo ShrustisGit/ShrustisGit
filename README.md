@@ -1,6 +1,7 @@
 <h1 align="">Hi 👋, I'm Shrusti Halli</h1>
 
 - Web & App Developer | Open Source Contributor | GSSoC Contributor
+  <hr>
 
 I'm a passionate developer interested in building useful applications, contributing to open source, and continuously improving my problem-solving and development skills.
 
