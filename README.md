@@ -10,7 +10,7 @@ I'm a passionate developer interested in building useful applications, contribut
 * Looking for new opportunities to contribute to open-source projects.<br>
 * Interested in Web Development, Open Source, and Software Development.<br>
 * Always excited to learn new technologies and collaborate with developers.<br>
-<hr>
+  <hr>
 
 - My projects-[https://github.com/ShrustisGit](https://github.com/ShrustisGit)
 
