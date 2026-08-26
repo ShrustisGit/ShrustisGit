@@ -5,8 +5,8 @@
 
 I'm a passionate developer interested in building useful applications, contributing to open source, and continuously improving my problem-solving and development skills.
 
-* I worked on EduBridge — Connecting ambitious students with global impact funding.<br>
 * Currently learning Java & Data Structures and Algorithms (DSA).<br>
+* I worked on EduBridge — Connecting ambitious students with global impact funding.<br>
 * Looking for new opportunities to contribute to open-source projects.<br>
 * Interested in Web Development, Open Source, and Software Development.<br>
 * Always excited to learn new technologies and collaborate with developers.<br>
