@@ -6,7 +6,7 @@
 I'm a passionate developer interested in building useful applications, contributing to open source, and continuously improving my problem-solving and development skills.
 
 * Currently learning Java & Data Structures and Algorithms (DSA).<br>
-* I worked on EduBridge — Connecting ambitious students with global impact funding.<br>
+* I worked on EduBridge — Connecting ambitious students with global impact funding, and I’m currently working on an AI Mock Interview Platform focused on helping candidates practice interviews and improve their technical and communication skills.
 * Looking for new opportunities to contribute to open-source projects.<br>
 * Interested in Java Development, Web Development, Open Source, and Software Development.<br>
 * Always excited to learn new technologies and collaborate with developers.<br>
